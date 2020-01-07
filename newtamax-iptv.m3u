@@ -1,0 +1,81 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="newtamax",新唐人电视台-1
+https://live.ntdimg.com/live400/playlist.m3u8?
+#EXTINF:-1 group-title="newtamax",新唐人电视台-2
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 group-title="newtamax",新唐人电视台-3
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+#EXTINF:-1 group-title="newtamax",新唐人电视台-中国台
+https://live2.ntdimg.com/cnlive/playlist.m3u8?
+#EXTINF:-1 group-title="newtamax",新唐人电视台-亚太台
+https://live.ntdimg.com/aplive200/playlist.m3u8?
+#EXTINF:-1 group-title="newtamax",VOA美国之音
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/index_0540_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="newtamax",蜡笔小新-1
+https://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="newtamax",蜡笔小新-2
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_tbnt5guv.flv?hl_nm=6&hl_cid=EWHDHVUR2SQZSDBB446HORCMIBVHMTZK&hl_cp=3&hl_slid=c43_rqy_tbnt5guv_s10&hl_slst=10&hl_dl=0&hl_dls=40&hl_dle=60&hl_apptp=qlive&hl_stapp=liveugc&hl_stid=rqy_tbnt5guv&hl_sttp=flv&hl_stft=flv&hl_pltp=1&hl_stpr=http&hl_stpt=1935&hl_dp=NB2HI4B2F4XWM3DWNRUXMZJOOZUWIZLPFZUXC2LZNEXGG33NF4&hl_force=0&qd_tvid=2479504123&qd_vipres=0&qd_scc=fb26edbf4463b92ded2c7b00107491df&qd_sc=cfea422f8b7cc169cd4bacb36a193985&qd_src=01010031010000000000&qd_ip=3af01c71&qd_uid=&qd_tm=1564125603315&qd_vip=1
+#EXTINF:-1 group-title="newtamax",蜡笔小新-3
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_idpgc3tg.flv?hl_nm=6&hl_cid=H3NJ42VODJ672C3VFW63T6ATF2X5LE56&hl_cp=3&hl_slid=c44_rqy_idpgc3tg_s10&hl_slst=10&hl_dl=0&hl_dls=40&hl_dle=60&hl_apptp=qlive&hl_stapp=liveugc&hl_stid=rqy_idpgc3tg&hl_sttp=flv&hl_stft=flv&hl_pltp=1&hl_stpr=http&hl_stpt=1935&hl_dp=NB2HI4B2F4XWM3DWNRUXMZJOOZUWIZLPFZUXC2LZNEXGG33NF4&hl_force=0&qd_tvid=2479473023&qd_vipres=0&qd_scc=5ff406ce986ad827ba14b7787273f656&qd_sc=3acfa25c0c7d0956d91f6c048bca204b&qd_src=01010031010000000000&qd_ip=3af01c71&qd_uid=&qd_tm=1564125682878&qd_vip=1
+#EXTINF:-1 group-title="newtamax",蜡笔小新-4
+https://pl3.live.panda.tv/live_panda/7a504fc069aab58a9d746e17ff187d56.flv?sign=4f23bfd38ccc14bfaf1592c06a3aacbe&ts=5c60ef44&rid=-10104559
+#EXTINF:-1 group-title="newtamax",蜡笔小新-5
+https://3graurmt1gw31hc3afahun.ourdvsss.com/pl3.live.panda.8686c.com/live_panda/a4d2f72c0b85f742441268d40696b881.flv?sign=f6e05aeea25f68debd15f68b792b7c60&ts=5c60ee5b&rid=-43400141&wshc_tag=0&wsts_tag=5c60ee5f&wsid_tag=3af08b97&wsiphost=ipdbm
+#EXTINF:-1 group-title="newtamax",名侦探柯南-1
+https://tx.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="newtamax",名侦探柯南-2
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_4ahpkehk.flv?hl_nm=6&hl_cid=AUKXJFEJOBFAYRBCMYJDYSGPG3ZJLNII&hl_cp=3&hl_slid=c41_rqy_4ahpkehk_s10&hl_slst=10&hl_dl=0&hl_dls=40&hl_dle=60&hl_apptp=qlive&hl_stapp=liveugc&hl_stid=rqy_4ahpkehk&hl_sttp=flv&hl_stft=flv&hl_pltp=1&hl_stpr=http&hl_stpt=1935&hl_dp=NB2HI4B2F4XWM3DWNRUXMZJOOZUWIZLPFZUXC2LZNEXGG33NF4&hl_force=0&qd_tvid=2481770823&qd_vipres=0&qd_scc=26118d61398fb28fc6e3d3ee78d64989&qd_sc=fc14c8c3ca648d580234a7a245103ea8&qd_src=01010031010000000000&qd_ip=3af01c71&qd_uid=&qd_tm=1564126207686&qd_vip=1
+#EXTINF:-1 group-title="newtamax",名侦探柯南-3
+http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+#EXTINF:-1 group-title="newtamax",爱情公寓
+http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="newtamax",美食星球
+http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
+#EXTINF:-1 group-title="newtamax",Channel V
+http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
+#EXTINF:-1 group-title="newtamax",MTV
+http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.flv
+#EXTINF:-1 group-title="newtamax",动物星球
+http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
+#EXTINF:-1 group-title="newtamax",EYE TV旅游台
+http://pili-live-hdl.qhmywl.com/dsdtv/6d6535e5e44f88df204129354e77b2a7.flv
+#EXTINF:-1 group-title="newtamax",Discovery Asia
+http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+#EXTINF:-1 group-title="newtamax",Discovery
+http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv
+#EXTINF:-1 group-title="newtamax",Discovery 科学
+http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
+#EXTINF:-1 group-title="newtamax",好莱坞电影
+http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
+#EXTINF:-1 group-title="newtamax",影迷电影台
+http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
+#EXTINF:-1 group-title="newtamax",卫视电影台
+http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+#EXTINF:-1 group-title="newtamax",壹电影台
+http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.flv
+#EXTINF:-1 group-title="newtamax",纬来电影
+http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
+#EXTINF:-1 group-title="newtamax",东森电影
+http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
+#EXTINF:-1 group-title="newtamax",东森洋片
+http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
+#EXTINF:-1 group-title="newtamax",龙华电影
+http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+#EXTINF:-1 group-title="newtamax",龙华洋片
+http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
+#EXTINF:-1 group-title="newtamax",龙祥电影
+http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
+#EXTINF:-1 group-title="newtamax",星卫电影
+http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
+#EXTINF:-1 group-title="newtamax",美亚电影
+http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv
+#EXTINF:-1 group-title="newtamax",靖天电影
+http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
+#EXTINF:-1 group-title="newtamax",CINEMAX
+http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
+#EXTINF:-1 group-title="newtamax",CatchPlay电影
+http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
+#EXTINF:-1 group-title="newtamax",HBO Family
+http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
+#EXTINF:-1 group-title="newtamax",HBO HD
+http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
