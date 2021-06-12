@@ -491,4 +491,4 @@
 ||laiiau.cn^
 ||chumanduo.com^
 ||zz.bdstatic.com^
-||dajb0oh.cn^
+||ssh.dajb0oh.cn^
