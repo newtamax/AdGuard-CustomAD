@@ -492,7 +492,7 @@
 ||chumanduo.com^
 ||zz.bdstatic.com^
 ||ssh.dajb0oh.cn^
-||kowqd1.top^
+||kowqd*.top^
 ||loveshop8.com^
 ||uerlqe.com^
 ||cdn.pgcm58.com^
