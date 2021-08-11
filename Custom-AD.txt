@@ -1,6 +1,6 @@
 ! AdGuard Custom-AD
 ! Title: 宇辰广告过滤规则
-! Version: 202108071430
+! Version: 202108112230
 ! Homepage: https://newtamax.coding.net/p/adguard-filter/d/Custom-AD/git/raw/master/Custom-AD.txt
 !           https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
 !           https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
@@ -486,22 +486,17 @@
 ||ae01.alicdn.com^
 ||gamevvip.com^
 ||idingwei.com.cn^
-||dlads.cn^
-||liulanliang.cn^
 ||js96110.com.cn^
 ||ad.yuntuds.com^
 ||static.yuntuds.com^
 ||static.ls.eyunmy.com^
-||yunchong6.cn^
 ||ximinkeji.cn^
 ||laiiau.cn^
-||chumanduo.com^
-||zz.bdstatic.com^
 ||ssh.dajb0oh.cn^
 ||kowqd*.top^
 ||loveshop8.com^
 ||uerlqe.com^
-||cdn.pgcm58.com^
+||pgcm58.com^
 ||cdn.wuxiqiangheng.com^
 ||weizhenwx.com^
 ||ja.ouxutong.com^
@@ -516,7 +511,6 @@
 ||t2.fkwh.net^
 ||img.gxhxmy88.com^
 ||kl.yditweb.cn^
-||xcdn.pgcm58.com^
 ||js.mylmurl.com^
 ||my.mylmad.com^
 ||ds.noveljia.com^
@@ -540,3 +534,7 @@
 ||qdfilter.com.cn^
 ||91adv.com.cn^
 ||wdach.com^
+||nshy8qp.cn^
+||kmgfjc.cn^
+||meihu56.cn^
+||lm661.com^
