@@ -88,7 +88,7 @@
 ||bds.snssdk.com^
 ||ug.snssdk.com^
 ||dm.bytedance.com^
-||toutiaoimg.com^
+||p*.toutiaoimg.com^
 ||p6-tt-ipv6.byteimg.com^
 !
 !----------微博---------
