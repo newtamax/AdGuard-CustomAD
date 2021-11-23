@@ -25,6 +25,7 @@
 ||ad.wx.com^
 ||x.adnet.qq.com^
 ||pingtas.qq.com^
+||rpt.gdt.qq.com^
 ||v2.gdt.qq.com^
 ||dp3.qq.com^
 ||t.gdt.qq.com^
