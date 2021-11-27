@@ -15,7 +15,6 @@
 ||oss-cn-shanghai.aliyuncs.com^
 ||js-js.oss-cn-beijing.aliyuncs.com^
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
-||wsc02.alicdn.com^
 !
 !-------腾讯-----------
 ||mp.weixin.qq.com/mp/ad_biz_info^
@@ -26,7 +25,6 @@
 ||ad.wx.com^
 ||x.adnet.qq.com^
 ||pingtas.qq.com^
-||rpt.gdt.qq.com^
 ||v2.gdt.qq.com^
 ||dp3.qq.com^
 ||t.gdt.qq.com^
