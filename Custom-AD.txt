@@ -14,7 +14,6 @@
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||oss-cn-shanghai.aliyuncs.com^
 ||js-js.oss-cn-beijing.aliyuncs.com^
-||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
 !
 !-------腾讯-----------
@@ -575,4 +574,3 @@
 ||zhiyinapi.com^
 ||img01.sogoucdn.com^
 ||img04.sogoucdn.com^
-||waipian1.com/statics/recommend/*
