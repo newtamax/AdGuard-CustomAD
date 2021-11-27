@@ -36,7 +36,6 @@
 ||3gsoftfile.tcdn.qq.com^
 ||3gsoftfile.tc.qq.com^
 ||sdk.e.qq.com^
-||inews.gtimg.com^
 @@*.tc.qq.com/$domain=~y.qq.com
 !
 !-------高德地图--------
