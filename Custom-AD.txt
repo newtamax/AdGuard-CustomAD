@@ -30,6 +30,7 @@
 ||t.gdt.qq.com^
 ||xc.gdt.qq.com^
 ||qautodl.qq.com^
+||rpt.gdt.qq.com^
 ||softfile.3g.qq.com^
 ||sqsh.3g.qq.com^
 ||3gsoftfile.tcdn.qq.com^
