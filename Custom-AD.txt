@@ -573,3 +573,4 @@
 ||img01.sogoucdn.com^
 ||img04.sogoucdn.com^
 ||zhouwutrip.cn^
+||travelya.cn^
