@@ -1,6 +1,6 @@
 ! AdGuard Custom-AD
 ! Title: 宇辰广告过滤规则
-! Version: 202112111540
+! Version: 202112131950
 ! Homepage: https://newtamax.coding.net/p/adguard-filter/d/Custom-AD/git/raw/master/Custom-AD.txt
 !           https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
 !           https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
@@ -12,7 +12,7 @@
 ||h-adashx.ut.taobao.com^
 ||adashbc.ut.taobao.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
-||oss-cn-shanghai.aliyuncs.com^
+||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||js-js.oss-cn-beijing.aliyuncs.com^
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
 !
