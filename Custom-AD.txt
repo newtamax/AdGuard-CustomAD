@@ -417,6 +417,7 @@
 ||api.24kidea.com^
 ||sss.bxmns.com^
 ||mobads-logs.baidu.com^
+||mobads-pre-config.cdn.bcebos.com^
 ||img.adnyg.com^
 ||log.tagtic.cn^
 ||pgdt.ugdtimg.com^
