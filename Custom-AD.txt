@@ -95,6 +95,7 @@
 ||p6-tt-ipv6.byteimg.com^
 !
 !----------快手---------
+||open.e.kuaishou.com^
 ||*ad.a.yximgs.com^
 ||adscount.fawulu.com^
 !
