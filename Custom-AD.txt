@@ -589,3 +589,4 @@
 ||xjqzh.cn^
 ||serversad.com^
 ||dxlmmd.com^
+||waipian?.com/statics/recommend/*.gif
