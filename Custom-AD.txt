@@ -596,3 +596,4 @@
 ||dd-static.jd.com^
 ||yanweier.com^
 ||ishanggao.com^
+||bolecdn.com^
