@@ -599,3 +599,6 @@
 ||bolecdn.com^
 ||0827591.com^
 ||1174383.com^
+||open.e.kuaishou.com^
+||*ad.a.yximgs.com^
+||gdfp.gifshow.com^
