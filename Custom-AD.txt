@@ -617,3 +617,6 @@
 ||olevod.com/upload/site/^
 ||api.nx-perf.cn^
 ||lo8ve6ygour3pea4cee.com^
+||outbrain.com^
+||h12-media.com^
+||bidgear.com^
