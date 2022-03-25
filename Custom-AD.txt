@@ -1,6 +1,6 @@
 ! AdGuard Custom-AD
 ! Title: 宇辰广告过滤规则
-! Version: 202203242255
+! Version: 202203252040
 ! Homepage: https://newtamax.coding.net/p/adguard-filter/d/Custom-AD/git/raw/master/Custom-AD.txt
 !           https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
 !           https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
@@ -15,6 +15,15 @@
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||js-js.oss-cn-beijing.aliyuncs.com^
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
+!
+!-------百度---------
+||vip.baiduvip.life^
+||baidujs.vip^
+||mobads-logs.baidu.com^
+||mobads-pre-config.cdn.bcebos.com^
+||ers.baidu.com^
+||publish-pic-cpu.baidu.com^
+||pic.rmb.bdstatic.com^
 !
 !-------腾讯-----------
 ||mp.weixin.qq.com/mp/ad_biz_info^
@@ -47,12 +56,13 @@
 ||image2.chelaile.net.cn^
 ||image3.chelaile.net.cn^
 ||image-c.weimobwmc.com^
-||api.chelaile.net.cn/adpub^
-||api.chelaile.net.cn/infoflow^
+||api.chelaile.net.cn/adpub/^
+||api.chelaile.net.cn/infoflow/^
+||adx.chelaile.net.cn^
+||atrace.chelaile.net.cn/adpub/^
 ||pic1.chelaile.net.cn^
-||web.chelaile.net.cn/api/adpub^
-||www.chelaile.net.cn/api/adpub^
-||atrace.chelaile.net.cn^
+||web.chelaile.net.cn/api/adpub/^
+||www.chelaile.net.cn/api/adpub/^
 !
 !-------同花顺---------
 @@||adm.10jqka.com.cn^
@@ -78,9 +88,10 @@
 ||api.zhihu.com/ad-style-service/request 
 !
 !----------抖音---------
+||sf1-scmcdn-tos.pstatp.com^
+||sf3-ttcdn-tos.pstatp.com^
 ||p1.pstatp.com^
 ||p3.pstatp.com^
-||sf1-scmcdn-tos.pstatp.com^
 ||is.snssdk.com^
 ||extlog.snssdk.com^
 ||toblog.ctobsnssdk.com^
@@ -107,16 +118,18 @@
 ||qhres.com^
 ||jspassport.ssl.qhimg.com^
 ||haostat.qihoo.com^
+!
 !----------kuaishou---------
 ||open.e.kuaishou.com^
 ||*.a.yximgs.com^
+||js.a.kspkg.com^
 ||gdfp.gifshow.com^
 !
 !-------Others--------
 ||*/generate_204
 ||*/adimgs
-||*/AdvertiseService/
-||*/statics/recommend/
+||*/AdvertiseService/^
+||*/statics/recommend/^
 ||*/tpl.js^
 ||*/version/check.php?
 ||*/images/ads/ 
@@ -272,7 +285,6 @@
 ||kanglingjiu.com^
 ||m.omztf.cn/jsCenter^
 ||cdn.k1815.com^
-||vip.baiduvip.life^
 ||vip.dyi5.com^
 ||youyouguang1999.com^
 ||ytelc.com^
@@ -376,7 +388,6 @@
 ||d.njdqwh.com^
 ||d.hiweiba.com^
 ||t.targetuse.com^
-||baidujs.vip^
 ||ocsp.dcocsp.cn^
 ||go.onelink.me^
 ||js.blogdaka.cc^
@@ -425,8 +436,6 @@
 ||dflooring.com^
 ||api.24kidea.com^
 ||sss.bxmns.com^
-||mobads-logs.baidu.com^
-||mobads-pre-config.cdn.bcebos.com^
 ||img.adnyg.com^
 ||log.tagtic.cn^
 ||pgdt.ugdtimg.com^
@@ -440,7 +449,7 @@
 ||pai.597606.com^
 ||55.55kghjg.cn^
 ||zhishitie.com^
-||getui.*^
+||*getui.*^
 ||pic.gksec.com^
 ||c.mipcdn.com^
 ||yabo816.com^
@@ -510,7 +519,6 @@
 ||wndlkj.com^
 ||mg.zgcqxjzny.cn^
 ||xv202105.xyz^
-||ers.baidu.com^
 ||ajx2.bemro.com^
 ||o1.zuoss.net^
 ||a1.mnxhj.com^
@@ -607,3 +615,4 @@
 ||woaijiba.com^
 ||static.cnbetacdn.com/article/^
 ||olevod.com/upload/site/^
+||api.nx-perf.cn^
