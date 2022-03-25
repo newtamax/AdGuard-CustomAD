@@ -620,3 +620,5 @@
 ||widgets.outbrain.com^
 ||bidgear.com^
 ||mahimeta.com^
+||pubfuture.com^
+||js.wpadmngr.com^
