@@ -616,3 +616,4 @@
 ||olevod.com/upload/site/^
 ||api.nx-perf.cn^
 ||nbk.lm336.com^
+||abb.lxiaoxin.com^
