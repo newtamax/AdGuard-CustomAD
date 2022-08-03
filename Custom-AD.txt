@@ -1,6 +1,6 @@
 ! AdGuard Custom-AD
 ! Title: 宇辰广告过滤规则
-! Version: 202208032200
+! Version: 202208032230
 ! Homepage: https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
 !           https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
 !           https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
@@ -118,6 +118,10 @@
 ||uve.weibo.com^
 ||ad.us.sinaimg.cn^
 ||storage.wax.weibo.com^
+!
+!------网易云音乐------
+||iadmusicmat.
+||*/eapi/ad/*
 !
 !----------360---------
 ||qhres.com^
@@ -607,7 +611,6 @@
 ||xjqzh.cn^
 ||serversad.com^
 ||dxlmmd.com^
-||waipian?.com/statics/recommend/*.gif
 ||btbdys.com/zzzzz
 ||limintv.com/333/*
 ||ajzsa.xyz^
@@ -632,4 +635,3 @@
 ||tsdflsdk.cypcb.net^
 ||out.cherryblossoms.top^
 ||ujhygtgderf.com^
-||iadmusicmat.
