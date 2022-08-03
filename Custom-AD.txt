@@ -121,6 +121,7 @@
 !
 !------网易云音乐------
 ||iadmusicmat.
+||iadmusicmatvideo.
 ||*/eapi/ad/*
 !
 !----------360---------
