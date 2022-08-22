@@ -1,14 +1,14 @@
 ! AdGuard Custom-AD
 ! Title: 宇辰广告过滤规则
-! Version: 202208211
+! Version: 202208231
 ! Homepage: https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
 !           https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
 !           https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
 !           https://raw.iqiq.io/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
-!           https://fastly.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
-!           https://cdn.staticaly.com/gh/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
-!           https://gcore.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
-!           https://raw-gh.gcdn.mirr.one/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
+!			https://fastly.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
+!			https://cdn.staticaly.com/gh/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
+!			https://gcore.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
+!			https://raw-gh.gcdn.mirr.one/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
 !
 !-------阿里---------
 ||adashxgc.ut.taobao.com^
@@ -113,6 +113,7 @@
 ||p?-tt-ipv6.byteimg.com^
 ||lf?-survey.bytetos.com^
 ||p?.toutiaoimg.com^
+||tnc3-alisc1.zijieapi.com^
 @@||dig.bdurl.net^
 !
 !----------微博---------
@@ -638,3 +639,5 @@
 ||tsdflsdk.cypcb.net^
 ||out.cherryblossoms.top^
 ||ujhygtgderf.com^
+||ad.xiaoyouzb.net^
+||adim.pinduoduo.com^
