@@ -1,6 +1,6 @@
 ! AdGuard Custom-AD
 ! Title: 宇辰广告过滤规则
-! Version: 202208231
+! Version: 202208232
 ! Homepage: https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
 !           https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
 !           https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
@@ -94,17 +94,14 @@
 ||api.zhihu.com/ad-style-service/request 
 !
 !----------抖音---------
-||sf1-scmcdn-tos.pstatp.com^
-||sf3-ttcdn-tos.pstatp.com^
-||p1.pstatp.com^
-||p3.pstatp.com^
+||*tos.pstatp.com^
+||p*.pstatp.com^
 ||is.snssdk.com^
 ||extlog.snssdk.com^
 ||toblog.ctobsnssdk.com^
 ||smr.snssdk.com^
 ||pangolin.snssdk.com^
-||pangolin-sdk-toutiao.com^
-||pangolin-sdk-toutiao-b.com^
+||pangolin-sdk-toutiao*.com^
 ||pglstatp-toutiao.com^
 ||pglstatp-sdk-toutiao.com^
 ||bds.snssdk.com^
