@@ -5,11 +5,11 @@
 !           https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
 !           https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
 !           https://raw.iqiq.io/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
-!			https://fastly.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
-!			https://cdn.staticaly.com/gh/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
-!			https://gcore.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
-!			https://raw-gh.gcdn.mirr.one/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
-!     https://jsd.cdn.zzko.cn/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
+!			      https://fastly.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
+!			      https://cdn.staticaly.com/gh/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
+!			      https://gcore.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
+!			      https://raw-gh.gcdn.mirr.one/newtamax/AdGuard-CustomAD/master/Custom-AD.txt
+!           https://jsd.cdn.zzko.cn/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.txt
 !
 !-------阿里---------
 ||adashxgc.ut.taobao.com^
