@@ -1,5 +1,5 @@
 #TITLE=Custom-AD
-#VER=202301291
+#VER=202301292
 #URL=https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
 #    https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -592,3 +592,5 @@ host-suffix,51xuex.com.cn,REJECT
 host-suffix,ijwn.neihhou.com,REJECT
 host-suffix,huiyidui.com,REJECT
 host-suffix,huiyanzhi.com,REJECT
+host-suffix,app.8c4.cn,REJECT
+host-suffix,vkceyugu.cdn.bspapp.com,REJECT
