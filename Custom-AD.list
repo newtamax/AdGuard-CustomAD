@@ -341,7 +341,6 @@ DOMAIN,ay.3lga3.cn,REJECT
 DOMAIN,ssh.q4hwkg.cn,REJECT
 DOMAIN,ssh.vs944.cn,REJECT
 DOMAIN,m.xafxs.cn,REJECT
-DOMAIN,scootersoftware.com,REJECTcheckupdates.php,REJECT
 DOMAIN-SUFFIX,umsns.com,REJECT
 DOMAIN-SUFFIX,mob.com,REJECT
 DOMAIN,img.mulanphone.cn,REJECT
