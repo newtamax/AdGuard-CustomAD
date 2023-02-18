@@ -1,6 +1,7 @@
 #TITLE=Custom-AD
-#VER=202302183
-#URL=https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
+#VER=202302184
+#URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
+#    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
 #    https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/Custom-AD.list
 #    https://raw.iqiq.io/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -62,7 +63,7 @@ DOMAIN-SUFFIX,ronghub.com,REJECT
 DOMAIN-SUFFIX,admaster.com.cn,REJECT
 DOMAIN,aoovqo8t.push.lncld.net,REJECT
 DOMAIN-SUFFIX,shuzilm.cn,REJECT
-DOMAIN-SUFFIX,pstatp.com,REJECT
+DOMAIN-SUFFIX.pstatp.com,REJECT
 DOMAIN,is.snssdk.com,REJECT
 DOMAIN,extlog.snssdk.com,REJECT
 DOMAIN,toblog.ctobsnssdk.com,REJECT
