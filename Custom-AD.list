@@ -62,7 +62,7 @@ DOMAIN-SUFFIX,ronghub.com,REJECT
 DOMAIN-SUFFIX,admaster.com.cn,REJECT
 DOMAIN,aoovqo8t.push.lncld.net,REJECT
 DOMAIN-SUFFIX,shuzilm.cn,REJECT
-DOMAIN-SUFFIX.pstatp.com,REJECT
+DOMAIN-SUFFIX,pstatp.com,REJECT
 DOMAIN,is.snssdk.com,REJECT
 DOMAIN,extlog.snssdk.com,REJECT
 DOMAIN,toblog.ctobsnssdk.com,REJECT
