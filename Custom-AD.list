@@ -107,7 +107,7 @@ DOMAIN,nh.miaozhu66.com,REJECT
 DOMAIN,sl.7wangming.com,REJECT
 DOMAIN-SUFFIX,nbjitnb.cn,REJECT
 DOMAIN,haole.hmcvs.cn,REJECT
-DOMAIN-SUFFIXhanji.net.cn,REJECT
+DOMAIN-SUFFIX,hanji.net.cn,REJECT
 DOMAIN,uu.77che.cn,REJECT
 DOMAIN,6062c2dd54860e9957d7dec009ca0815.79755.com.cn,REJECT
 DOMAIN,wap.xnhzjcy.com,REJECT
