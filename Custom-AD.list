@@ -1,5 +1,5 @@
 #TITLE=Custom-AD
-#VER=202304261
+#VER=202304291
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -594,6 +594,7 @@ DOMAIN-SUFFIX,liutb20230327.live,REJECT
 DOMAIN-SUFFIX,vfsdgjrr.xyz,REJECT
 DOMAIN,googleads.g.doubleclick-cn.net,REJECT
 DOMAIN-SUFFIX,cjcvd6.com,REJECT
+DOMAIN-SUFFIX,dfghaqea.xyz,REJECT
 #以下是分流规则:
 DOMAIN-KEYWORD,btnull,DIRECT
 DOMAIN-KEYWORD,tvbox?.com,DIRECT
