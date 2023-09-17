@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 ,美国之音
+#EXTINF:-1 group-title="未分类",美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-#EXTINF:-1 ,新唐人电视台
+#EXTINF:-1 group-title="未分类",新唐人电视台
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 ,凤凰资讯台-1
+#EXTINF:-1 group-title="未分类",凤凰资讯台-1
 https://us.dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g
-#EXTINF:-1 ,凤凰卫视台-1
+#EXTINF:-1 group-title="未分类",凤凰卫视台-1
 https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?stream_id=cg4l8oajkyww
-#EXTINF:-1 ,东森新闻
+#EXTINF:-1 group-title="未分类",东森新闻
 https://us.dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow
-#EXTINF:-1 ,TVBS新闻
+#EXTINF:-1 group-title="未分类",TVBS新闻
 https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c
-#EXTINF:-1 ,华视新闻
+#EXTINF:-1 group-title="未分类",华视新闻
 https://us.dispatch.ulivetv.net/v/live/cfxxj2c5l6f4.m3u8?stream_id=cfxxj2c5l6f4
-#EXTINF:-1 ,壹新闻
+#EXTINF:-1 group-title="未分类",壹新闻
 https://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls
-#EXTINF:-1 ,八大第一台
+#EXTINF:-1 group-title="未分类",八大第一台
 https://us.dispatch.ulivetv.net/v/live/cs0cbcjywtog.m3u8?stream_id=cs0cbcjywtog
-#EXTINF:-1 ,CNN国际
+#EXTINF:-1 group-title="未分类",CNN国际
 https://us.dispatch.ulivetv.net/v/live/cl7ct8ccm6yo.m3u8?stream_id=cl7ct8ccm6yo
-#EXTINF:-1 ,HBO HD
+#EXTINF:-1 group-title="未分类",HBO HD
 https://us.dispatch.ulivetv.net/v/live/cl7cfnwsvl4w.m3u8?stream_id=cl7cfnwsvl4w
-#EXTINF:-1 ,BBC News
+#EXTINF:-1 group-title="未分类",BBC News
 https://us.dispatch.ulivetv.net/v/live/cfxzpvvyodkw.m3u8?stream_id=cfxzpvvyodkw
-#EXTINF:-1 ,Fox News
+#EXTINF:-1 group-title="未分类",Fox News
 https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o
-#EXTINF:-1 ,CBS News
+#EXTINF:-1 group-title="未分类",CBS News
 https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo
-#EXTINF:-1 ,ABC News
+#EXTINF:-1 group-title="未分类",ABC News
 https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 group-title="未分类",江苏卫视
 https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=1b3420b11663481856
-#EXTINF:-1 ,南京新闻频道
+#EXTINF:-1 group-title="未分类",南京新闻频道
 http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
-#EXTINF:-1 ,南京教科频道
+#EXTINF:-1 group-title="未分类",南京教科频道
 http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8
-#EXTINF:-1 ,南京生活频道
+#EXTINF:-1 group-title="未分类",南京生活频道
 http://live.nbs.cn/channels/njtv/shpd/500k.m3u8
-#EXTINF:-1 ,南京娱乐频道
+#EXTINF:-1 group-title="未分类",南京娱乐频道
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
-#EXTINF:-1 ,南京十八频道
+#EXTINF:-1 group-title="未分类",南京十八频道
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
-#EXTINF:-1 ,南京少儿频道
+#EXTINF:-1 group-title="未分类",南京少儿频道
 http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-#EXTINF:-1 ,南京信息频道
+#EXTINF:-1 group-title="未分类",南京信息频道
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
