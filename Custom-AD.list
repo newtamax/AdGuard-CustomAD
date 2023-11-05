@@ -1,5 +1,5 @@
 #TITLE=Custom-AD
-#VER=202309191
+#VER=202311051
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -626,6 +626,7 @@ DOMAIN,tm00738.bj.bcebos.com,REJECT
 DOMAIN,star.jsyunmy.com,REJECT
 DOMAIN,abf.guangdongtaiji.com,REJECT
 DOMAIN,js.16fa20230525.live,REJECT
+DOMAIN,jh2.cdn.anyshare.icu,REJECT
 #以下是分流规则:
 DOMAIN-KEYWORD,btnull,DIRECT
 DOMAIN-KEYWORD,tvbox?.com,DIRECT
