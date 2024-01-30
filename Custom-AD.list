@@ -1,5 +1,5 @@
 #TITLE=Custom-AD
-#VER=202101302
+#VER=202101303
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -618,6 +618,8 @@ DOMAIN-SUFFIX,qgbwndfvc.com,REJECT
 DOMAIN-SUFFIX,rltdxt.com,REJECT
 DOMAIN-SUFFIX,bdxiguaimg.com,REJECT
 DOMAIN-SUFFIX,xcggzzb.com,REJECT
+DOMAIN-SUFFIX,catwalkoutled.com,REJECT
+DOMAIN-SUFFIX,adskeeper.com,REJECT
 DOMAIN,js.canstrm.com,REJECT
 DOMAIN,js.wpshsdk.com,REJECT
 DOMAIN,js.cabnnr.com,REJECT
