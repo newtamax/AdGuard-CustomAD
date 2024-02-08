@@ -1,5 +1,5 @@
 #TITLE=Custom-AD
-#VER=202402081
+#VER=202402082
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -635,6 +635,7 @@ DOMAIN,jh2.cdn.anyshare.icu,REJECT
 #以下是分流规则:
 DOMAIN-SUFFIX,gugumedia.link,DIRECT
 DOMAIN-SUFFIX,aca.best,DIRECT
+DOMAIN-SUFFIX,misakaf.org,DIRECT
 DOMAIN-KEYWORD,btnull,DIRECT
 DOMAIN-KEYWORD,tvbox?.com,DIRECT
 DOMAIN-KEYWORD,histar,PROXY
