@@ -7,5 +7,6 @@ payload:
   - DOMAIN-SUFFIX,btnull.org
   - DOMAIN-SUFFIX,btnull.si
   
-  # > gugumedia
+  # > emby
   - DOMAIN-SUFFIX,gugumedia.link
+  - DOMAIN-SUFFIX,aca.best
