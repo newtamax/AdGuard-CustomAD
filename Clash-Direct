@@ -1,4 +1,5 @@
 payload:
+  #VER=202402082
   # > Btnull
   - DOMAIN-SUFFIX,btnull.nu
   - DOMAIN-SUFFIX,btnull.in
@@ -10,3 +11,4 @@ payload:
   # > emby
   - DOMAIN-SUFFIX,gugumedia.link
   - DOMAIN-SUFFIX,aca.best
+  - DOMAIN-SUFFIX,misakaf.org
