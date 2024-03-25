@@ -1,5 +1,5 @@
 payload:
-  #VER=202403081
+  #VER=202403251
   # > Btnull
   - DOMAIN-SUFFIX,btnull.nu
   - DOMAIN-SUFFIX,btnull.in
@@ -10,3 +10,4 @@ payload:
   
   # > emby
   - DOMAIN-SUFFIX,gugumedia.link
+  - DOMAIN-SUFFIX,wogg.link
