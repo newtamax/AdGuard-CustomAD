@@ -1,5 +1,5 @@
 #TITLE=Custom-AD
-#VER=202404131
+#VER=202404132
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -636,8 +636,8 @@ DOMAIN,jh2.cdn.anyshare.icu,REJECT
 DOMAIN-SUFFIX,gugumedia.link,DIRECT
 DOMAIN-SUFFIX,gugu.media,DIRECT
 DOMAIN-SUFFIX,wogg.link,DIRECT
-DOMAIN-SUFFIX,finderv1.video.qq.com,DIRECT
-DOMAIN-SUFFIX,finderks.video.qq.com,DIRECT
+DOMAIN,finderv1.video.qq.com,DIRECT
+DOMAIN,finderks.video.qq.com,DIRECT
 IP-CIDR,152.53.19.231/32,DIRECT
 DOMAIN-KEYWORD,btnull,DIRECT
 DOMAIN-KEYWORD,tvbox?.com,DIRECT
