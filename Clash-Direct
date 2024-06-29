@@ -1,5 +1,5 @@
 payload:
-  #VER=202404131
+  #VER=202406291
   # > Btnull
   - DOMAIN-SUFFIX,btnull.nu
   - DOMAIN-SUFFIX,btnull.in
@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,btnull.si
   
   # > emby
-  - DOMAIN-SUFFIX,gugumedia.link
+  - DOMAIN-SUFFIX,gugumedia.site
   - DOMAIN-SUFFIX,gugu.media
   - DOMAIN-SUFFIX,wogg.link
   - IP-CIDR,152.53.19.231/32
