@@ -1,5 +1,5 @@
 payload:
-  #VER=202406291
+  #VER=202407291
   # > Btnull
   - DOMAIN-SUFFIX,btnull.nu
   - DOMAIN-SUFFIX,btnull.in
@@ -13,3 +13,10 @@ payload:
   - DOMAIN-SUFFIX,gugu.media
   - DOMAIN-SUFFIX,wogg.link
   - IP-CIDR,152.53.19.231/32
+
+  # > dynu
+  - DOMAIN,newtamax.dynu.net
+  - DOMAIN,newtamax.f3322.net
+  - DOMAIN,newtamax.zapto.org
+  - DOMAIN,chenlihua.dynu.net
+  - DOMAIN,muxuhao.dynu.net
