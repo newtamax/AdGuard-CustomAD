@@ -14,7 +14,6 @@ payload:
 
   # > dynu
   - DOMAIN,newtamax.dynu.net
-  - DOMAIN,newtamax.f3322.net
   - DOMAIN,newtamax.zapto.org
   - DOMAIN,chenlihua.dynu.net
   - DOMAIN,muxuhao.dynu.net
