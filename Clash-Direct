@@ -1,6 +1,7 @@
 payload:
-  #VER=202407291
+  #VER=202409161
   # > Btnull
+  - DOMAIN-KEYWORD,btnull
   - DOMAIN-SUFFIX,btnull.nu
   - DOMAIN-SUFFIX,btnull.in
   - DOMAIN-SUFFIX,btnull.fun
@@ -8,19 +9,31 @@ payload:
   - DOMAIN-SUFFIX,btnull.org
   - DOMAIN-SUFFIX,btnull.si
   
-  # > emby,xptv
+  # > emby
+  - DOMAIN-SUFFIX,cinema.facmata.net
+  - DOMAIN-SUFFIX,theater.facmata.net
+  - DOMAIN-SUFFIX,anime.facmata.net
   - DOMAIN-SUFFIX,gugumedia.site
   - DOMAIN-SUFFIX,gugu.media
   - DOMAIN-SUFFIX,jms1.niceduck.lol
   - DOMAIN-SUFFIX,jms2.niceduck.lol
   - DOMAIN-SUFFIX,1111cuct.niceduck.lol
+  - DOMAIN-SUFFIX,pl1.niceduck.lol
   - DOMAIN-SUFFIX,pl2.niceduck.lol
   - DOMAIN-SUFFIX,shsiis.cloudfisher.cc
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
   - DOMAIN-SUFFIX,7777777.buzz
   - IP-CIDR,152.53.19.231/32
-
+  
+  # > XPTV
+  - DOMAIN-KEYWORD,wogg
+  - DOMAIN-SUFFIX,wogg.link
+  - DOMAIN-SUFFIX,wogg.xyz
+  - DOMAIN-SUFFIX,xxooo.cf
+  - DOMAIN-SUFFIX,gitcafe.net
+  - DOMAIN-SUFFIX,mobile-stream.api.mgtv.com
+  
   # > dynu
   - DOMAIN,newtamax.dynu.net
   - DOMAIN,newtamax.f3322.net
