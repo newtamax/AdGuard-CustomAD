@@ -1,14 +1,14 @@
 payload:
-  #VER=202409162
+  #VER=202409261
   # > Btnull
-  - DOMAIN-KEYWORD,btnull
-  - DOMAIN-SUFFIX,btnull.nu
-  - DOMAIN-SUFFIX,btnull.in
-  - DOMAIN-SUFFIX,btnull.fun
-  - DOMAIN-SUFFIX,btnull.net
-  - DOMAIN-SUFFIX,btnull.org
-  - DOMAIN-SUFFIX,btnull.si
-  
+  - DOMAIN-KEYWORD,gying
+  - DOMAIN-SUFFIX,gying.in
+  - DOMAIN-SUFFIX,gying.net
+  - DOMAIN-SUFFIX,gying.org
+  - DOMAIN-SUFFIX,gying.si
+  - DOMAIN-SUFFIX,gyg.si
+  - DOMAIN-SUFFIX,gyg.la
+
   # > emby
   - IP-CIDR,152.53.19.231/32
 
