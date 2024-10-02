@@ -1,5 +1,5 @@
 payload:
-  #VER=202409261
+  #VER=202410021
   # > Btnull
   - DOMAIN-KEYWORD,gying
   - DOMAIN-SUFFIX,gying.in
@@ -17,3 +17,6 @@ payload:
   - DOMAIN,newtamax.zapto.org
   - DOMAIN,chenlihua.dynu.net
   - DOMAIN,muxuhao.dynu.net
+
+  # > github
+  - DOMAIN-SUFFIX,jsdelivr.net
