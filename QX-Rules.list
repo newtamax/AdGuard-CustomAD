@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202411022
+#VER=202411023
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -643,5 +643,6 @@ DOMAIN,emby.cn2gias.uk,PROXY
 DOMAIN-SUFFIX,limbopro.com,PROXY
 DOMAIN-SUFFIX,cnbeta.com.tw,PROXY
 DOMAIN-SUFFIX,tophub.app,PROXY
+DOMAIN-SUFFIX,zbds.top,PROXY
 DOMAIN-KEYWORD,histar,PROXY
 IP-CIDR,152.53.19.231/32,DIRECT
