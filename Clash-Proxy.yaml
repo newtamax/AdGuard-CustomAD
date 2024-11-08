@@ -1,5 +1,10 @@
 payload:
-  #VER=202410201
+  #VER=202411081
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
   - DOMAIN-SUFFIX,zbds.top
+  - DOMAIN-SUFFIX,freemp3cloud.com
+  - DOMAIN-SUFFIX,cnbeta.com.tw
+  - DOMAIN-SUFFIX,limbopro.com
+  - DOMAIN-KEYWORD,histar
+  
