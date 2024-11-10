@@ -1,10 +1,11 @@
 payload:
-  #VER=202411101
+  #VER=202411111
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
   - DOMAIN-SUFFIX,zbds.top
   - DOMAIN-SUFFIX,freemp3cloud.com
   - DOMAIN-SUFFIX,cnbeta.com.tw
   - DOMAIN-SUFFIX,limbopro.com
-  - DOMAIN-SUFFIX,woolyss.com 
+  - DOMAIN-SUFFIX,woolyss.com
+  - DOMAIN-SUFFIX,shuanu.com
   - DOMAIN-KEYWORD,histar
