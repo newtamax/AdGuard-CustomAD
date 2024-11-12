@@ -1,5 +1,5 @@
 payload:
-  #VER=202411111
+  #VER=202411121
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
   - DOMAIN-SUFFIX,zbds.top
@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,limbopro.com
   - DOMAIN-SUFFIX,woolyss.com
   - DOMAIN-SUFFIX,shuanu.com
+  - DOMAIN-SUFFIX,mefcl.com
   - DOMAIN-KEYWORD,histar
