@@ -1,5 +1,5 @@
 payload:
-  #VER=202411121
+  #VER=202411122
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
   - DOMAIN-SUFFIX,zbds.top
@@ -9,4 +9,12 @@ payload:
   - DOMAIN-SUFFIX,woolyss.com
   - DOMAIN-SUFFIX,shuanu.com
   - DOMAIN-SUFFIX,mefcl.com
+  - DOMAIN-SUFFIX,chinese.rfi.fr  
+  - DOMAIN-SUFFIX,voachinese.com  
+  - DOMAIN-SUFFIX,aboluowang.com
+  - DOMAIN-SUFFIX,epochtimes.com
+  - DOMAIN-SUFFIX,chinadigitaltimes.net
+  - DOMAIN-SUFFIX,kanzhongguo.com
+  - DOMAIN-SUFFIX,dongtaiwang.com
+  - DOMAIN-SUFFIX,rfa.org
   - DOMAIN-KEYWORD,histar
