@@ -1,5 +1,5 @@
 payload:
-  #VER=202411122
+  #VER=202411123
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
   - DOMAIN-SUFFIX,zbds.top
@@ -17,4 +17,5 @@ payload:
   - DOMAIN-SUFFIX,kanzhongguo.com
   - DOMAIN-SUFFIX,dongtaiwang.com
   - DOMAIN-SUFFIX,rfa.org
+  - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-KEYWORD,histar
