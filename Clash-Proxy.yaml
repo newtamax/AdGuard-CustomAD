@@ -1,5 +1,5 @@
 payload:
-  #VER=202411133
+  #VER=202411134
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
   # > FuckGFW
@@ -26,5 +26,6 @@ payload:
   - DOMAIN-SUFFIX,soupian.app
   - DOMAIN-SUFFIX,zhuiyingmao4.com
   - DOMAIN-SUFFIX,wdoo.net
+  - DOMAIN-SUFFIX,cupfox.love 
   - DOMAIN-KEYWORD,histar
   
