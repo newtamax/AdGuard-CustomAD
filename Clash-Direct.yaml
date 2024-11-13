@@ -1,5 +1,6 @@
 payload:
-  #VER=202410021
+  #VER=20241131
+  #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Direct.yaml
   # > Btnull
   - DOMAIN-KEYWORD,gying
   - DOMAIN-SUFFIX,gying.in
