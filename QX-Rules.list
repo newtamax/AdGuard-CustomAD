@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202411132
+#VER=202411133
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
 #    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
@@ -638,15 +638,6 @@ DOMAIN,muxuhao.dynu.net,DIRECT
 # > qq
 DOMAIN,finderv1.video.qq.com,DIRECT
 DOMAIN,finderks.video.qq.com,DIRECT
-# > FuckGFW
-DOMAIN-SUFFIX,chinese.rfi.fr,PROXY
-DOMAIN-SUFFIX,voachinese.com,PROXY
-DOMAIN-SUFFIX,aboluowang.com,PROXY
-DOMAIN-SUFFIX,epochtimes.com,PROXY
-DOMAIN-SUFFIX,chinadigitaltimes.net,PROXY
-DOMAIN-SUFFIX,kanzhongguo.com,PROXY
-DOMAIN-SUFFIX,dongtaiwang.com,PROXY
-DOMAIN-SUFFIX,rfa.org,PROXY
 # > Technique
 DOMAIN-SUFFIX,limbopro.com,PROXY
 DOMAIN-SUFFIX,metacubex.one,PROXY
