@@ -1,5 +1,6 @@
 payload:
   #VER=202411134
+  #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Proxy.yaml
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
   # > FuckGFW
