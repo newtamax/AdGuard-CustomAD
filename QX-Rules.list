@@ -1,16 +1,16 @@
 #TITLE=QX-Rules
-#VER=202411134
-#URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/Custom-AD.list
-#    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
-#    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/Custom-AD.list
-#    https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/Custom-AD.list
-#    https://raw.iqiq.io/newtamax/AdGuard-CustomAD/master/Custom-AD.list
-#	 https://fastly.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
-#	 https://cdn.staticaly.com/gh/newtamax/AdGuard-CustomAD/master/Custom-AD.list
-#	 https://gcore.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
-#	 https://raw-gh.gcdn.mirr.one/newtamax/AdGuard-CustomAD/master/Custom-AD.list
-#	 https://jsd.cdn.zzko.cn/gh/newtamax/AdGuard-CustomAD@master/Custom-AD.list
-#以下是去广告:
+#VER=202411135
+#URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/QX-Rules.list
+#    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
+#    https://raw.fastgit.org/newtamax/AdGuard-CustomAD/master/QX-Rules.list
+#    https://ghproxy.com/https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/master/QX-Rules.list
+#    https://raw.iqiq.io/newtamax/AdGuard-CustomAD/master/QX-Rules.list
+#	 https://fastly.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
+#	 https://cdn.staticaly.com/gh/newtamax/AdGuard-CustomAD/master/QX-Rules.list
+#	 https://gcore.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
+#	 https://raw-gh.gcdn.mirr.one/newtamax/AdGuard-CustomAD/master/QX-Rules.list
+#	 https://jsd.cdn.zzko.cn/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
+# > 以下是去广告:
 DOMAIN,adashxgc.ut.taobao.com,REJECT
 DOMAIN,adashx.m.taobao.com,REJECT
 DOMAIN,h-adashx.ut.taobao.com,REJECT
