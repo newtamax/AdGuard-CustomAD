@@ -1,14 +1,15 @@
 payload:
-  #VER=202411131
+  #VER=202411132
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
+  # > Software
   - DOMAIN-SUFFIX,zbds.top
-  - DOMAIN-SUFFIX,freemp3cloud.com
   - DOMAIN-SUFFIX,cnbeta.com.tw
   - DOMAIN-SUFFIX,limbopro.com
   - DOMAIN-SUFFIX,woolyss.com
-  - DOMAIN-SUFFIX,shuanu.com
   - DOMAIN-SUFFIX,mefcl.com
+  - DOMAIN-SUFFIX,medisearch.io
+  # > FuckGFW
   - DOMAIN-SUFFIX,chinese.rfi.fr  
   - DOMAIN-SUFFIX,voachinese.com  
   - DOMAIN-SUFFIX,aboluowang.com
@@ -18,5 +19,10 @@ payload:
   - DOMAIN-SUFFIX,dongtaiwang.com
   - DOMAIN-SUFFIX,rfa.org
   - DOMAIN-SUFFIX,metacubex.one
-  - DOMAIN-SUFFIX,medisearch.io
+  # > Cinema
+  - DOMAIN-SUFFIX,shuanu.com
+  - DOMAIN-SUFFIX,freemp3cloud.com
+  - DOMAIN-SUFFIX,soupian.app
+  - DOMAIN-SUFFIX,zhuiyingmao4.com
+  - DOMAIN-SUFFIX,wdoo.net
   - DOMAIN-KEYWORD,histar
