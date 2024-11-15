@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202411135
+#VER=202411151
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
@@ -647,6 +647,7 @@ DOMAIN-SUFFIX,tophub.app,PROXY
 DOMAIN-SUFFIX,zbds.top,PROXY
 DOMAIN-SUFFIX,mefcl.com,PROXY
 DOMAIN-SUFFIX,medisearch.io,PROXY
+DOMAIN-SUFFIX,sleazyfork.org,PROXY
 # > Cinema
 DOMAIN-KEYWORD,gying,DIRECT
 DOMAIN-KEYWORD,gyg,DIRECT
