@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202411151
+#VER=202411171
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
@@ -28,6 +28,7 @@ DOMAIN,ers.baidu.com,REJECT
 DOMAIN,publish-pic-cpu.baidu.com,REJECT
 DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
+DOMAIN,wxsmw.wxs.qq.com,REJECT
 DOMAIN,wxa.wxs.qq.com,REJECT
 DOMAIN,ad.wx.com,REJECT
 DOMAIN,x.adnet.qq.com,REJECT
