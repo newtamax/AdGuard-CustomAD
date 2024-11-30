@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202411291
+#VER=202411301
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
@@ -662,5 +662,6 @@ DOMAIN-SUFFIX,zhuiyingmao4.com,PROXY
 DOMAIN-SUFFIX,wdoo.net,PROXY
 DOMAIN-SUFFIX,cupfox.love,PROXY
 DOMAIN-SUFFIX,fangpi.net,PROXY
+DOMAIN-SUFFIX,yym4.com,PROXY
 DOMAIN-KEYWORD,histar,PROXY
 IP-CIDR,152.53.19.231/32,DIRECT
