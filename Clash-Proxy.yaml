@@ -1,5 +1,5 @@
 payload:
-  #VER=202411301
+  #VER=202412031
   #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Proxy.yaml
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,mefcl.com
   - DOMAIN-SUFFIX,medisearch.io
   - DOMAIN-SUFFIX,sleazyfork.org
+  - DOMAIN-SUFFIX,woolyss.com
   # > Cinema
   - DOMAIN-SUFFIX,shuanu.com
   - DOMAIN-SUFFIX,freemp3cloud.com
