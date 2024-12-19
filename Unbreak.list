@@ -1,0 +1,6 @@
+# Unbreak
+# 由于广告屏蔽无法做到100%完美，故由newtamax维护本分流，用以修正误屏蔽的域名
+# logtime: 2024-12-19
+
+# > youtube
+DOMAIN,jnn-pa.googleapis.com
