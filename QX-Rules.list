@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202412151
+#VER=202412191
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
@@ -637,6 +637,7 @@ DOMAIN,newtamax.dynu.net,DIRECT
 DOMAIN,newtamax.zapto.org,DIRECT
 DOMAIN,chenlihua.dynu.net,DIRECT
 DOMAIN,muxuhao.dynu.net,DIRECT
+DOMAIN,jnn-pa.googleapis.com,DIRECT
 # > qq
 DOMAIN,finderv1.video.qq.com,DIRECT
 DOMAIN,finderks.video.qq.com,DIRECT
