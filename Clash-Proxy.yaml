@@ -1,8 +1,16 @@
 payload:
-  #VER=202412151
+  #VER=202412251
   #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Proxy.yaml
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
+  # > airport
+  - DOMAIN-SUFFIX,niceduck.io
+  - DOMAIN-SUFFIX,cloudfisher.net
+  - DOMAIN-SUFFIX,iplcnetwork.com
+  - DOMAIN-SUFFIX,fmta.boo
+  - DOMAIN-KEYWORD,acaisbest
+  - DOMAIN-SUFFIX,aca.best
+  - DOMAIN-KEYWORD,sntp
   # > FuckGFW
   - DOMAIN-SUFFIX,chinese.rfi.fr  
   - DOMAIN-SUFFIX,voachinese.com  
