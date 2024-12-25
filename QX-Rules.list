@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202412192
+#VER=202412251
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
@@ -632,6 +632,14 @@ DOMAIN,abf.guangdongtaiji.com,REJECT
 DOMAIN,js.16fa20230525.live,REJECT
 DOMAIN,jh2.cdn.anyshare.icu,REJECT
 # > 以下是分流规则:
+# > airport
+DOMAIN-SUFFIX,niceduck.io,PROXY
+DOMAIN-SUFFIX,cloudfisher.net,PROXY
+DOMAIN-SUFFIX,iplcnetwork.com,PROXY
+DOMAIN-SUFFIX,fmta.boo,PROXY
+DOMAIN-KEYWORD,acaisbest,PROXY
+DOMAIN-SUFFIX,aca.best,PROXY
+DOMAIN-KEYWORD,sntp,PROXY
 # > namespace
 DOMAIN,newtamax.dynu.net,DIRECT
 DOMAIN,newtamax.zapto.org,DIRECT
