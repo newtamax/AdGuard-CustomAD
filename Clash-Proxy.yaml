@@ -1,5 +1,5 @@
 payload:
-  #VER=202412291
+  #VER=202412311
   #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Proxy.yaml
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
@@ -42,5 +42,6 @@ payload:
   - DOMAIN-SUFFIX,fangpi.net
   - DOMAIN-SUFFIX,yym4.com
   - DOMAIN-SUFFIX,makifx.com
+  - DOMAIN-SUFFIX,mefun.org
   - DOMAIN-KEYWORD,histar
   
