@@ -1,56 +1,56 @@
 payload:
-  #VER=202501221
+  #VER=202501222
   #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Custom.yaml
 # > airport
   - DOMAIN-SUFFIX,niceduck.io,PROXY
-  - DOMAIN -SUFFIX,cloudfisher.net,PROXY
-  - DOMAIN -SUFFIX,iplcnetwork.com,PROXY
-  - DOMAIN -SUFFIX,fmta.boo,PROXY
-  - DOMAIN -KEYWORD,acaisbest,PROXY
-  - DOMAIN -SUFFIX,aca.best,PROXY
-  - DOMAIN -SUFFIX,selom.xyz,PROXY
-  - DOMAIN -SUFFIX,slsub.com,PROXY
-  - DOMAIN -KEYWORD,sntp,PROXY
+  - DOMAIN-SUFFIX,cloudfisher.net,PROXY
+  - DOMAIN-SUFFIX,iplcnetwork.com,PROXY
+  - DOMAIN-SUFFIX,fmta.boo,PROXY
+  - DOMAIN-KEYWORD,acaisbest,PROXY
+  - DOMAIN-SUFFIX,aca.best,PROXY
+  - DOMAIN-SUFFIX,selom.xyz,PROXY
+  - DOMAIN-SUFFIX,slsub.com,PROXY
+  - DOMAIN-KEYWORD,sntp,PROXY
 # > namespace
-  - DOMAIN ,newtamax.dynu.net,DIRECT
-  - DOMAIN ,newtamax.zapto.org,DIRECT
-  - DOMAIN ,chenlihua.dynu.net,DIRECT
-  - DOMAIN ,muxuhao.dynu.net,DIRECT
+  - DOMAIN,newtamax.dynu.net,DIRECT
+  - DOMAIN,newtamax.zapto.org,DIRECT
+  - DOMAIN,chenlihua.dynu.net,DIRECT
+  - DOMAIN,muxuhao.dynu.net,DIRECT
 # > qq
-  - DOMAIN ,finderv1.video.qq.com,DIRECT
-  - DOMAIN ,finderks.video.qq.com,DIRECT
+  - DOMAIN,finderv1.video.qq.com,DIRECT
+  - DOMAIN,finderks.video.qq.com,DIRECT
 # > Technique
-  - DOMAIN -SUFFIX,limbopro.com,PROXY
-  - DOMAIN -SUFFIX,metacubex.one,PROXY
-  - DOMAIN -SUFFIX,cnbeta.com.tw,PROXY
-  - DOMAIN -SUFFIX,tophub.app,PROXY
-  - DOMAIN -SUFFIX,zbds.top,PROXY
-  - DOMAIN -SUFFIX,mefcl.com,PROXY
-  - DOMAIN -SUFFIX,medisearch.io,PROXY
-  - DOMAIN -SUFFIX,sleazyfork.org,PROXY
-  - DOMAIN -SUFFIX,woolyss.com,PROXY
-  - DOMAIN -SUFFIX,ppbuzz.com,PROXY
-  - DOMAIN -SUFFIX,localsend.org,PROXY
-  - DOMAIN -SUFFIX,v2rayse.com,PROXY
-  - DOMAIN -SUFFIX,linux.do,PROXY
+  - DOMAIN-SUFFIX,limbopro.com,PROXY
+  - DOMAIN-SUFFIX,metacubex.one,PROXY
+  - DOMAIN-SUFFIX,cnbeta.com.tw,PROXY
+  - DOMAIN-SUFFIX,tophub.app,PROXY
+  - DOMAIN-SUFFIX,zbds.top,PROXY
+  - DOMAIN-SUFFIX,mefcl.com,PROXY
+  - DOMAIN-SUFFIX,medisearch.io,PROXY
+  - DOMAIN-SUFFIX,sleazyfork.org,PROXY
+  - DOMAIN-SUFFIX,woolyss.com,PROXY
+  - DOMAIN-SUFFIX,ppbuzz.com,PROXY
+  - DOMAIN-SUFFIX,localsend.org,PROXY
+  - DOMAIN-SUFFIX,v2rayse.com,PROXY
+  - DOMAIN-SUFFIX,linux.do,PROXY
   - IP-CIDR,95.161.76.100/31,REJECT
 # > Cinema
-  - DOMAIN -KEYWORD,gying,DIRECT
-  - DOMAIN -KEYWORD,gyg,DIRECT
-  - DOMAIN -KEYWORD,tvbox?.com,DIRECT
-  - DOMAIN ,emby.cn2gias.uk,PROXY
-  - DOMAIN -SUFFIX,freemp3cloud.com,PROXY
-  - DOMAIN -SUFFIX,shuanu.com,PROXY
-  - DOMAIN -SUFFIX,soupian.app,PROXY
-  - DOMAIN -SUFFIX,zhuiyingmao4.com,PROXY
-  - DOMAIN -SUFFIX,wdoo.net,PROXY
-  - DOMAIN -SUFFIX,cupfox.love,PROXY
-  - DOMAIN -SUFFIX,fangpi.net,PROXY
-  - DOMAIN -SUFFIX,yym4.com,PROXY
-  - DOMAIN -SUFFIX,makifx.com,PROXY
-  - DOMAIN -SUFFIX,mefun.org,PROXY
-  - DOMAIN -SUFFIX,netflixgc.com,PROXY
-  - DOMAIN -SUFFIX,hbottv.com,PROXY
-  - DOMAIN -KEYWORD,histar,PROXY
-  - DOMAIN -KEYWORD,missav,PROXY
+  - DOMAIN-KEYWORD,gying,DIRECT
+  - DOMAIN-KEYWORD,gyg,DIRECT
+  - DOMAIN-KEYWORD,tvbox?.com,DIRECT
+  - DOMAIN,emby.cn2gias.uk,PROXY
+  - DOMAIN-SUFFIX,freemp3cloud.com,PROXY
+  - DOMAIN-SUFFIX,shuanu.com,PROXY
+  - DOMAIN-SUFFIX,soupian.app,PROXY
+  - DOMAIN-SUFFIX,zhuiyingmao4.com,PROXY
+  - DOMAIN-SUFFIX,wdoo.net,PROXY
+  - DOMAIN-SUFFIX,cupfox.love,PROXY
+  - DOMAIN-SUFFIX,fangpi.net,PROXY
+  - DOMAIN-SUFFIX,yym4.com,PROXY
+  - DOMAIN-SUFFIX,makifx.com,PROXY
+  - DOMAIN-SUFFIX,mefun.org,PROXY
+  - DOMAIN-SUFFIX,netflixgc.com,PROXY
+  - DOMAIN-SUFFIX,hbottv.com,PROXY
+  - DOMAIN-KEYWORD,histar,PROXY
+  - DOMAIN-KEYWORD,missav,PROXY
   - IP-CIDR,152.53.19.231/32,DIRECT
