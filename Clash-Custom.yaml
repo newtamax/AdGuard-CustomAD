@@ -1,8 +1,10 @@
 payload:
-  #VER=202501222
+  #VER=202501231
   #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Custom.yaml
 # > airport
   - DOMAIN-SUFFIX,niceduck.io,PROXY
+  - DOMAIN-SUFFIX,niceduck.lol,PROXY
+  - DOMAIN-SUFFIX,emby.moe,PROXY
   - DOMAIN-SUFFIX,cloudfisher.net,PROXY
   - DOMAIN-SUFFIX,iplcnetwork.com,PROXY
   - DOMAIN-SUFFIX,fmta.boo,PROXY
