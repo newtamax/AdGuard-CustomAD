@@ -1,5 +1,5 @@
 payload:
-  #VER=202501231
+  #VER=202501241
   #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Custom.yaml
 # > airport
   - DOMAIN-SUFFIX,niceduck.io,PROXY
@@ -35,6 +35,9 @@ payload:
   - DOMAIN-SUFFIX,localsend.org,PROXY
   - DOMAIN-SUFFIX,v2rayse.com,PROXY
   - DOMAIN-SUFFIX,linux.do,PROXY
+  - DOMAIN-SUFFIX,minepi.com,PROXY
+  - DOMAIN-SUFFIX,piappengine.com,PROXY
+  - DOMAIN-SUFFIX,socialchain.app,PROXY
   - IP-CIDR,95.161.76.100/31,REJECT
 # > Cinema
   - DOMAIN-KEYWORD,gying,DIRECT
