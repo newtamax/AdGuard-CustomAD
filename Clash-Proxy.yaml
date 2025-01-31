@@ -1,5 +1,5 @@
 payload:
-  #VER=202501241
+  #VER=202501311
   #URL=https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Clash-Proxy.yaml
   # > anti-ad
   - DOMAIN-SUFFIX,anti-ad.net
@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,aca.best
   - DOMAIN-SUFFIX,selom.xyz
   - DOMAIN-SUFFIX,slsub.com
+  - DOMAIN-SUFFIX,starlinkcloud.club
+  - DOMAIN-SUFFIX,starink.pw
+  - DOMAIN-SUFFIX,lyrebird.cloud
   - DOMAIN-KEYWORD,sntp
   # > FuckGFW
   - DOMAIN-SUFFIX,chinese.rfi.fr  
