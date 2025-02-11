@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202502041
+#VER=202502111
 #URL=https://github.com/newtamax/AdGuard-CustomAD/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/AdGuard-CustomAD@master/QX-Rules.list
@@ -645,6 +645,8 @@ DOMAIN-SUFFIX,lyrebird.cloud,PROXY
 DOMAIN-SUFFIX,kuaifaka.net,PROXY
 DOMAIN-SUFFIX,awatv.de,PROXY
 DOMAIN-SUFFIX,91ai.de,PROXY
+DOMAIN-SUFFIX,aikan.la,PROXY
+DOMAIN-SUFFIX,aikan.cloud,PROXY
 DOMAIN-KEYWORD,sntp,PROXY
 # > namespace
 DOMAIN,newtamax.dynu.net,DIRECT
