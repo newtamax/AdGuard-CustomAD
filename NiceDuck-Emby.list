@@ -1,8 +1,0 @@
-# NAME: NiceDuck-Emby
-# UPDATED: 202502123
-# AUTHOR: newtamax
-# REPO: https://github.com/newtamax/AdGuard-CustomAD
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
-DOMAIN-SUFFIX,emby.moe,NiceDuck-Emby
-DOMAIN-SUFFIX,niceduck.lol,NiceDuck-Emby
