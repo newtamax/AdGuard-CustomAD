@@ -1,3 +1,5 @@
+#Version:202502141
+#REPO:https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Emby-Rule.list
 #https://slink.ltd/https://gist.githubusercontent.com/shangrenxi/30e8e88df80aaa0824150ed141b04702/raw/Emby-rule.list
 #参考https://github.com/unusuad/Baitangbot/blob/main/QuanX/Emby.list
 #仅限内部群使用，不可外泄。下面的配置为Quantumult X的配置，其他配置自己改写。
