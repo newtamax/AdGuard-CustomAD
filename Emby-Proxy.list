@@ -7,11 +7,5 @@
 DOMAIN,shsiis.cloudfisher.cc
 
 #--> niceduck机场服 <--
-#-/1111 -> CF http:80
-DOMAIN,cf.niceduck.lol
-#-/Jms -> CF https:443
-DOMAIN,jcf.niceduck.lol
-#-/DPX -> CF http:2086
-DOMAIN,dpxcf.niceduck.lol
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
