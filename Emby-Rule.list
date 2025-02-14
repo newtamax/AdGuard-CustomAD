@@ -1,21 +1,5 @@
 #Version:202502141
 #REPO:https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Emby-Rule.list
-#https://slink.ltd/https://gist.githubusercontent.com/shangrenxi/30e8e88df80aaa0824150ed141b04702/raw/Emby-rule.list
-#参考https://github.com/unusuad/Baitangbot/blob/main/QuanX/Emby.list
-#仅限内部群使用，不可外泄。下面的配置为Quantumult X的配置，其他配置自己改写。
-#建议手动添加[policy]和[filter_remote]
-
-#[policy]填写如下
-#static=Emby, Direct, Proxy, img-url=https://slink.ltd/https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Emby.png
-
-#[filter_remote]填写如下
-#https://slink.ltd/https://gist.githubusercontent.com/shangrenxi/30e8e88df80aaa0824150ed141b04702/raw/Emby-rule-proxy.list, tag=Emby-Proxy, force-policy=Proxy, update-interval=2592000, opt-parser=true, enabled=true
-#https://slink.ltd/https://gist.githubusercontent.com/shangrenxi/30e8e88df80aaa0824150ed141b04702/raw/Emby-rule.list, tag=Emby-Rule, force-policy=Emby, update-interval=2592000, opt-parser=true, enabled=true
-
-#按需添加，有上面两个可以保证基本使用了。
-#CF优选ip加速，添加如下地址的所有内容到[dns]下面，注意是打开url地址，后再复制内容。
-#https://slink.ltd/https://gist.githubusercontent.com/shangrenxi/30e8e88df80aaa0824150ed141b04702/raw/Emby-rule-host.list
-
 
 #--> 网盘服CDN <--
 //115资源
@@ -26,8 +10,6 @@ DOMAIN-SUFFIX,ctyunxs.cn
 DOMAIN-SUFFIX,cmecloud.cn
 //联通云
 DOMAIN-SUFFIX,pan.wo.cn
-
-######## 可直可代线路 ########
 
 #--> lyrebird EMBY <--
 DOMAIN-SUFFIX,lyrebirdemby.com
@@ -60,6 +42,3 @@ DOMAIN-SUFFIX,as174.com
 #--> facmata机场服 <--
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,cdn.jiashule.com
-
-### 兜底 ###
-# DOMAIN-KEYWORD,emby
