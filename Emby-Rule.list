@@ -2,13 +2,13 @@
 #REPO:https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Emby-Rule.list
 
 #--> 网盘服CDN <--
-#//115资源
+#-/115资源
 DOMAIN,cdnfhnfile.115.com
-#//天翼云
+#-/天翼云
 DOMAIN-SUFFIX,ctyunxs.cn
-#//移动云
+#-/移动云
 DOMAIN-SUFFIX,cmecloud.cn
-#//联通云
+#-/联通云
 DOMAIN-SUFFIX,pan.wo.cn
 
 #--> lyrebird EMBY <--
