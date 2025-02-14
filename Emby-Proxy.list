@@ -1,0 +1,11 @@
+# NAME: Emby-Proxy
+# UPDATED: 202502141
+# AUTHOR: newtamax
+# REPO: https://github.com/newtamax/AdGuard-CustomAD
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+#--> niceduck机场服 <--
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,niceduck.lol
+#--> 渔云&JMS <--
+DOMAIN,shsiis.cloudfisher.cc
