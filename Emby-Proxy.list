@@ -2,10 +2,19 @@
 # UPDATED: 202502141
 # AUTHOR: newtamax
 # REPO: https://raw.githubusercontent.com/newtamax/AdGuard-CustomAD/refs/heads/master/Emby-Proxy.list
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+//https://slink.ltd/https://gist.githubusercontent.com/shangrenxi/30e8e88df80aaa0824150ed141b04702/raw/Emby-rule-proxy.list
+
+#--> 渔云&JMS <--
+#代理
+DOMAIN,shsiis.cloudfisher.cc
+
 #--> niceduck机场服 <--
+//1111 -> CF http:80
+DOMAIN,cf.niceduck.lol
+//Jms -> CF https:443
+DOMAIN,jcf.niceduck.lol
+//DPX -> CF http:2086
+DOMAIN,dpxcf.niceduck.lol
+// DOMAIN-SUFFIX,niceduck.lol
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
-#--> 渔云&JMS <--
-DOMAIN,shsiis.cloudfisher.cc
