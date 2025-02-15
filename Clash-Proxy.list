@@ -1,6 +1,6 @@
 # 代理补充列表
 # Version:202504151
-# REPO:https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/Clash-Proxy.list
+# REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
 DOMAIN-SUFFIX,niceduck.io
