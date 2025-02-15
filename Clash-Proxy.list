@@ -1,9 +1,64 @@
 # 代理补充列表
+# Version:202504151
+# REPO:https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/Clash-Proxy.list
 
-# 域名后缀匹配
+# > airport
+DOMAIN-SUFFIX,niceduck.io
+DOMAIN-SUFFIX,cloudfisher.net
+DOMAIN-SUFFIX,iplcnetwork.com
+DOMAIN-SUFFIX,fmta.boo
+DOMAIN-SUFFIX,selom.xyz
+DOMAIN-SUFFIX,slsub.com
+DOMAIN-SUFFIX,starlinkcloud.club
+DOMAIN-SUFFIX,starink.pw
+DOMAIN-SUFFIX,lyrebird.cloud
+DOMAIN-SUFFIX,kuaifaka.net
+DOMAIN-SUFFIX,awatv.de
+DOMAIN-SUFFIX,91ai.de
+DOMAIN-SUFFIX,aikan.la
+DOMAIN-SUFFIX,aikan.cloud
+DOMAIN-KEYWORD,sntp
+
+# > Technique
+DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,cnbeta.com.tw
+DOMAIN-SUFFIX,tophub.app
+DOMAIN-SUFFIX,zbds.top
+DOMAIN-SUFFIX,mefcl.com
+DOMAIN-SUFFIX,medisearch.io
+DOMAIN-SUFFIX,sleazyfork.org
+DOMAIN-SUFFIX,woolyss.com
+DOMAIN-SUFFIX,ppbuzz.com
+DOMAIN-SUFFIX,localsend.org
+DOMAIN-SUFFIX,v2rayse.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,minepi.com
+DOMAIN-SUFFIX,piappengine.com
+DOMAIN-SUFFIX,socialchain.app
+DOMAIN-SUFFIX,18hlw.com
+
+# > Cinema
+DOMAIN,emby.cn2gias.uk
+DOMAIN-SUFFIX,freemp3cloud.com
+DOMAIN-SUFFIX,shuanu.com
+DOMAIN-SUFFIX,soupian.app
+DOMAIN-SUFFIX,zhuiyingmao4.com
+DOMAIN-SUFFIX,wdoo.net
+DOMAIN-SUFFIX,cupfox.love
+DOMAIN-SUFFIX,fangpi.net
+DOMAIN-SUFFIX,yym4.com
+DOMAIN-SUFFIX,makifx.com
+DOMAIN-SUFFIX,mefun.org
+DOMAIN-SUFFIX,netflixgc.com
+DOMAIN-SUFFIX,hbottv.com
+DOMAIN-SUFFIX,miaosou.fun
+DOMAIN-SUFFIX,pan666.net
+DOMAIN-SUFFIX,pansearch.me
+DOMAIN-SUFFIX,wogg.net
 DOMAIN-SUFFIX,qichiyu.com
-
-# 域名关键字匹配
+DOMAIN-KEYWORD,histar
+DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,1e100
 
 # IP段匹配
