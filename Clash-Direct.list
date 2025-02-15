@@ -16,4 +16,4 @@ DOMAIN,finderks.video.qq.com
 DOMAIN-KEYWORD,gying
 DOMAIN-KEYWORD,gyg
 DOMAIN-KEYWORD,tvbox?.com
-IP-CIDR,152.53.19.231/32
+IP-CIDR,152.53.19.231/32,no-resolve
