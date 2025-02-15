@@ -1,6 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # Version:202504151
-# REPO:https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/Clash-Direct.list
+# REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
 DOMAIN,newtamax.dynu.net
